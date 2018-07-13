@@ -44,7 +44,7 @@
     "geojsonhint": "^1.0.1",
     "hat": "0.0.3",
     "invariant": "^2.1.0",
-    "superagent": "^1.2.0",
+    "superagent": "^3.8.3",
     "xtend": "^4.0.0"
   }
 }
